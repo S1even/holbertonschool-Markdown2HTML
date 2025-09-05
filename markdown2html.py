@@ -12,7 +12,7 @@ import hashlib
 def convert_markdown(md_content):
     """
     Convert Markdown headings, lists, paragraphs, bold, emphasis,
-    and custom syntax to HTML.
+    and custom syntax to HTML..
     """
     html_content = []
     in_ulist = False
